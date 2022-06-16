@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleWeatherApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleWeatherApp_jar</output-path>
+    <root id="archive" name="SimpleWeatherApp.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="SimpleWeatherApp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20220320/json-20220320.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
